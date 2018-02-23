@@ -37,7 +37,8 @@
 #image{
  padding-left: 300px;
   padding-bottom: 50px;
- padding-top: 25px;
+ padding-top: 25px; 
+ float: left;
 }
 
 body{
