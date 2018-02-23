@@ -38,7 +38,7 @@
  padding-left: 450px;
   padding-bottom: 50px;
  padding-top: 25px;
- margin-left: 10px;px;
+ margin-left: 0px;
 }
 
 body{
@@ -69,6 +69,6 @@ body{
     margin-bottom: 20px;
     margin-top: 20px;
     margin-left: 700px;
-    margin-top: -100px;
+    margin-top: -150px;
     background-color:#69E6C2;
 }
