@@ -52,7 +52,7 @@ body{
 }
 .video{
   display: inline-block;
-  float: left;;
+  float: right;
   margin-left: 10;
   margin-right: 50;
   margin-top: 15px;
@@ -61,14 +61,14 @@ body{
    height: 75px;
    width: 500px;
    display: inline-block
-   float: right;
+   float: left;
    border: 1px solid black;
    border-radius: 10px;
    font-family: "Georgia";
    text-align: center;
    background-color: #F4E8C1;
 }
-.sources2 > li > a{
+.sources > li > a{
    text-decoration: none;
    list-style: none;
 }
