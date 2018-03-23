@@ -71,8 +71,8 @@ body{
    margin-top: 50px;
 
 }
-.sources > li{
-   list- decoration: none;
+.sources > ul{
+   list-style-type: none;
    text-decoration: none;
 }
 .domainthanks{
