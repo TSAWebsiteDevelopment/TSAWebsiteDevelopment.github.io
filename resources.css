@@ -74,7 +74,7 @@ body{
 .sources > li > a{
    text-decoration: none;
    list-style: none;
-   text-align: left;
+   text-align: left-align;
 }
 .domainthanks{
    height: 100px;
