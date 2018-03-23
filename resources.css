@@ -58,7 +58,7 @@ body{
   margin-top: 15px;
 }
 .sources{
-   height: 75px;
+   height: 150px;
    width: 500px;
    display: inline-block
    float: left;
@@ -88,3 +88,4 @@ body{
    margin-left: 120px;
    margin-top: 65px;
 }
+
