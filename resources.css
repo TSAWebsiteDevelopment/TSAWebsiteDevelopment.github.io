@@ -69,11 +69,18 @@ body{
    background-color: #C5F1E1;
    margin-left: 120px;
    margin-top: 50px;
-
 }
-.sources > ul{
-   list-style-type: none;
-   text-decoration: none;
+.sources > li{
+ display: inline-block;
+ padding-right: 50px;
+}
+.sources > li > a{
+ text-decoration:none;
+ color:#ffffff;
+ font-family: "Courier New";
+}
+.sources > li > a:hover{
+ color:#c1c1c1
 }
 .domainthanks{
    height: 100px;
@@ -88,10 +95,3 @@ body{
    margin-left: 120px;
    margin-top: 65px;
 }
-.sources > li > a{
- text-decoration:none;
- color:#ffffff;
- font-family: "Courier New";
-}
-.sources > li > a:hover{
- color:#c1c1c1
