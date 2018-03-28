@@ -70,6 +70,9 @@ body{
    margin-left: 120px;
    margin-top: 50px;
 }
+.sources > ul{
+   list-style: none;
+}
 .sources > li{
  display: inline-block;
  padding-right: 50px;
