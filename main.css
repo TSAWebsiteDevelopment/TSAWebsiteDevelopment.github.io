@@ -35,10 +35,9 @@
  padding-top: 10px;
 }
 #image{
- padding-left: 800px;
+ padding-left: 450px;
   padding-bottom: 50px;
- padding-top: 25px; 
- float: left;
+ padding-top: 25px;
 }
 
 body{
@@ -55,16 +54,17 @@ body{
     margin-bottom: 20px;
     margin-top: 20px;
     background-color:#F4E8C1;
+   
 }
 .transitionparagraph{
-    height: 300px;
-    width: 225px;
-    border-radius: 10px;
-    border: 1px solid black;
-    background-color: #ffffff;
+    font-family: Georgia;
     text-align: center;
-    margin-top: 25px;
-    margin-left: 300px;
+    font-family: Georgia;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color:#69E6C2;
 }
-   
-     
