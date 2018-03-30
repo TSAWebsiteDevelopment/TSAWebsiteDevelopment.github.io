@@ -59,7 +59,7 @@ body{
 }
 .sources{   
    height: 95px;
-   width: 100px;
+   width: 250px;
    display: inline-block
    float: left;
    border: 1px solid black;
@@ -87,7 +87,7 @@ body{
 }
 .domainthanks{
    height: 100px;
-   width: 500px;
+   width: 550px;
    display: inline-block
    float: left;
    border: 1px solid black;
