@@ -67,7 +67,7 @@ body{
     padding-left: 5px;
     margin-top: -20px;
     margin-left: 200px;
-    margin-right: 45px;
+    margin-right: 150px;
     background-color:#C5F1E1;
     display: inline-block;
   
@@ -84,6 +84,7 @@ body{
     padding-left: 10px;
     padding-right: 10px;
     margin-top: -20px;
+ 
     background-color:#35C390;
     display: inline-block;
     position: absolute;
