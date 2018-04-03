@@ -69,3 +69,18 @@ body{
    padding-top: 5px;
    padding-bottom: 5px;
 }
+.domainthanks{
+   height: 200;
+   width: 300;
+   border: 1px solid black;
+   border-radius: 10px;
+   font-family: "georgia";
+   background-color: #F4E8C1;
+   margin-top: 25px; 
+   margin-bottom: 300px;
+   margin-left: 300px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+   
+    
