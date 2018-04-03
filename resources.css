@@ -69,6 +69,17 @@ body{
    padding-top: 5px;
    padding-bottom: 5px;
 }
+.sources > li{
+ display: inline-block;
+}
+.sources > li > a{
+ text-decoration:none;
+ color:#ffffff;
+ font-family: "Georgia";
+}
+.sources > li > a:hover{
+ color:#c1c1c1
+}
 .domainthanks{
    height: 110;
    width: 400;
@@ -81,6 +92,14 @@ body{
    padding-top: 0px;
    padding-bottom: 5px;
    padding-left: 5px;
+}
+.domainthanks > a{
+ text-decoration:none;
+ color:#ffffff;
+ font-family: "Georgia";
+}
+.domainthanks > a:hover{
+ color:#c1c1c1
 }
    
     
