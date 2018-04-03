@@ -39,7 +39,7 @@ body{
 }
 .paragraph1{
    height: 100px;
-   width: 1350px;
+   width: 1325px;
    border: 1px solid black;
    border-radius: 10px;
    font-family: "Georgia";
@@ -53,7 +53,7 @@ body{
 .video{
   margin-left: 700px;
   margin-right: 50px;
-  margin-top: 100px;
+  margin-top: 75px;
 }
 .sources{
    height: 100px;
