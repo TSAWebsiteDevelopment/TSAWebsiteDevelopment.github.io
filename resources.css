@@ -64,19 +64,19 @@ body{
    font-family: "Georgia";
    text-align: center;
    background-color: #69E6C2;
-   margin-top: -190px; 
+   margin-top: -240px; 
    margin-left: 200px;
    padding-top: 5px;
    padding-bottom: 5px;
 }
 .domainthanks{
-   height: 100;
+   height: 110;
    width: 400;
    border: 1px solid black;
    border-radius: 10px;  
    font-family: "georgia";
    background-color: #35C390;
-   margin-top: -240px; 
+   margin-top: -190px; 
    margin-left: 200px;
    padding-top: 0px;
    padding-bottom: 5px;
