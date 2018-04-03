@@ -56,7 +56,7 @@ body{
   margin-top: 15px;
 }
 .sources{
-   height: 200px;
+   height: 100px;
    width: 400px;
    border: 1px solid black;
    border-radius: 10px;
@@ -69,13 +69,13 @@ body{
    padding-bottom: 5px;
 }
 .domainthanks{
-   height: 200;
+   height: 100;
    width: 400;
    border: 1px solid black;
    border-radius: 10px;
    font-family: "georgia";
    background-color: #F4E8C1;
-   margin-top: -150px; 
+   margin-top: -250px; 
    margin-left: 100px;
    padding-top: 5px;
    padding-bottom: 5px;
