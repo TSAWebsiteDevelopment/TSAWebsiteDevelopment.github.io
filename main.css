@@ -1,7 +1,7 @@
 .head{
  margin: 0;
  padding: 0;
- font-family:"Bookman";
+ font-family:"Courier New";
 }
 .nav{
  background-color:#595959;
@@ -44,7 +44,7 @@ body{
  background-color:#CED1D3;
 }
 .introparagraph{
-    font-family: Quicksand light;
+    font-family: "Courier New";
     text-align: center;
     border: 1px solid black;
     border-radius: 10px;
@@ -60,7 +60,7 @@ body{
    
 }
 .transitionparagraph{
-    font-family: Quicksand;
+    font-family: "Courier New";
     text-align: center;
     border: 1px solid black;
     border-radius: 10px;
