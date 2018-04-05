@@ -28,7 +28,7 @@
   height: 105px;
 }
 #bannertext {
- font-family: "Georgia";
+ font-family: Quicksand light;
  text-align: center;
  text-size: 800px;
  color: #oooooo;
@@ -44,7 +44,7 @@ body{
  background-color:#CED1D3;
 }
 .introparagraph{
-    font-family: Quicksand;
+    font-family: Quicksand light;
     text-align: center;
     border: 1px solid black;
     border-radius: 10px;
