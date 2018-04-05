@@ -50,9 +50,11 @@ body{
     border-radius: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
+    padding-left: 10
+    padding-right: 10
     margin-bottom: 20px;
     margin-top: 20px;
-    width: 1000px;
+    width: 900px;
     background-color: #F4E8C1;
    
 }
