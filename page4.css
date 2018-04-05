@@ -39,7 +39,7 @@ body{
 }
 .introparagraph{
     text-align: center;
-    font-family: Georgia;
+    font-family: "Courier New";
     border: 1px solid black;
     border-radius: 10px;
     height: 200px;
@@ -57,7 +57,7 @@ body{
 }
 .prosparagraph{
     text-align: center;
-    font-family: Georgia;
+    font-family: "Courier New";
     border: 1px solid black;
     border-radius: 10px;
     height: 700px;
@@ -74,7 +74,7 @@ body{
 }
 .consparagraph{
     text-align: center;
-    font-family: Georgia;
+    font-family: "Courier New";
     border: 1px solid black;
     border-radius: 10px;
     height: 700px;
@@ -84,7 +84,6 @@ body{
     padding-left: 10px;
     padding-right: 10px;
     margin-top: -20px;
- 
     background-color:#35C390;
     display: inline-block;
     position: absolute;
@@ -93,7 +92,7 @@ body{
 }
 .outroparagraph{
     text-align: center;
-    font-family: Georgia;
+    font-family: "Courier New";
     border: 1px solid black;
     border-radius: 10px;
     height: 100px;
