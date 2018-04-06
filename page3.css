@@ -29,7 +29,7 @@
   image-repeat: no repeat;
 }
 #bannertext {
- font-family: "Georgia";
+ font-family: "Courier New";
  text-align: center;
  text-size: 800px;
  color: #oooooo;
@@ -60,9 +60,7 @@ body{
     font-family: "Courier New";
     border: 1px solid black;
     border-radius: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 5px;
+    padding: 10px;
     margin-bottom: 20px;
     margin-top: 20px;
     margin-left: 20px;
@@ -74,9 +72,7 @@ body{
     font-family: "Courier New";
     border: 1px solid black;
     border-radius: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-right: 5px;
+    padding: 10px;
     margin-bottom: 20px;
     margin-top: 20px;
     margin-left: 100px;
@@ -88,9 +84,7 @@ body{
     font-family: "Courier New";
     border: 1px solid black;
     border-radius: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 5px;
+    padding: 10px;
     margin-bottom: 20px;
     margin-top: 20px;
     margin-left: 20px;
