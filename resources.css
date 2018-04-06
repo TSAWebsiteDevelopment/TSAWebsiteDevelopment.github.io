@@ -68,12 +68,13 @@ body{
    margin-left: 200px;
    padding-top: 5px;
    padding-bottom: 5px;
+   list-style: none;
 }
 .links > li{
  display: inline-block;
 }
 .links > li > a{
- text-decoration:none;
+ text-decoration: none;
  color:#ffffff;
  font-family: "Courier New";
 }
