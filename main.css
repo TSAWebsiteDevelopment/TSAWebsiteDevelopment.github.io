@@ -60,6 +60,8 @@ body{
    
 }
 .transitionparagraph{
+    height: 500px;
+    width: 700px;
     font-family: "Courier New";
     text-align: center;
     border: 1px solid black;
