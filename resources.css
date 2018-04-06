@@ -38,7 +38,7 @@ body{
  padding-top: 10px;
 }
 .paragraph1{
-   height: 100px;
+   height: 110px;
    width: 1425px;
    border: 1px solid black;
    border-radius: 10px;
@@ -82,7 +82,7 @@ body{
  color:#c1c1c1
 }
 .domain{
-   height: 110;
+   height: 120;
    width: 400;
    border: 1px solid black;
    border-radius: 10px;  
